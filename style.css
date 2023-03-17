@@ -1,0 +1,42 @@
+#arial{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+#tomate{
+    color: tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aqua{
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#vert{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#clrf{
+    list-style: none;
+}
+
+#curs{
+    font-family: cursive;
+}
+#fred{
+    background-color: tomato;
+    font-family: cursive;
+}
+#faqua{
+    background-color: aqua;
+    font-family: cursive;
+}
+#fvert{
+    background-color: orange;
+    font-family: cursive;
+}
+#logo{
+    width: 18%;
+    height: 18%;
+}
+li > p {
+    margin: 0px;
+}
